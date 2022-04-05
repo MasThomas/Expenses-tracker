@@ -4,7 +4,7 @@
 Le projet consiste à créer une version desktop d'une application de gestion des dépenses (revenus et dépenses), utilisant les hooks et Context.
 
 
-**Installation du Projet : **
+**Installation du Projet :**
 
 - Cloner le repository
 - Lancer ensuite les commandes suivantes :
